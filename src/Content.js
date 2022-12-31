@@ -37,7 +37,6 @@ export default function Content({heading,time,para}) {
              <div className='div4'>
              <h2>What Are The React Term Principles</h2>
              <span className='date'>Thursday 4th, 2015 5 min read</span>
-             {/* <p className='para'>Let clan code guide you. Then let it go</p> */}
              </div>
          </div>
              </div>
