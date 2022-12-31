@@ -1,0 +1,42 @@
+#nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 300px;
+  margin-bottom: 100px;
+}
+.btn{
+  background-color: palevioletred;
+  border-radius: 5px;
+  border: none;
+  height: 25px;
+  width: 60px;
+  margin-right: 200px;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+}
+.content{
+  margin-left: 460px;
+  margin-bottom: 70px;
+}
+h2{
+  color: palevioletred;
+  padding: 0px;
+  margin: 0px;
+}
+.date{
+  font-style: italic;
+  font-size: 14px;
+}
+.light{
+  color: black;
+  background-color: white;
+}
+.dark{
+  color: white;
+  background-color: black;
+}
+#div1{
+  height: 657px;
+}
